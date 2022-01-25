@@ -1,0 +1,4 @@
+#!/usr/bin/env python
+
+import os_info
+os_info.get_sys_info()
