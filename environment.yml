@@ -1,0 +1,7 @@
+name: comp30830_piptest
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+prefix: C:\Users\micha\anaconda3\envs\comp30830_piptest
